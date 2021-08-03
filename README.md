@@ -1,2 +1,2 @@
 # python-notes
-Notes on learning Python
+Python学习过程中的笔记
